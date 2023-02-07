@@ -207,7 +207,7 @@ a:hover {
   font-weight: bold;
 }
 
-@media (min-width: 1300px) and (max-width: 1500px) {
+@media (min-width: 1300px) and (max-width: 1700px) {
   #showcase-container h1 {
     font-size: 2rem;
   }
