@@ -429,8 +429,8 @@ a:hover {
 
 /* footer */
 #footer {
-  background: #222;
-  color: #eee;
+  background: #eee;
+  color: #111;
   padding: 30px;
   text-align: center;
 }
