@@ -177,10 +177,8 @@ a:hover {
   margin: 0;
 }
 
-
 #img-relative {
   position: relative;
-  
 }
 
 #showcase .image-retangle {
@@ -193,7 +191,6 @@ a:hover {
 #showcase-container {
   text-align: left;
   width: 80%;
-  
 }
 
 #showcase-container h2 {
@@ -208,6 +205,12 @@ a:hover {
   padding-bottom: 10px;
   padding-top: 10px;
   font-weight: bold;
+}
+
+@media (min-width: 1300px) and (max-width: 1500px) {
+  #showcase-container h1 {
+    font-size: 2rem;
+  }
 }
 
 #showcase-container p {
@@ -443,4 +446,3 @@ a:hover {
   padding: 30px;
   text-align: center;
 }
-
